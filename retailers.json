@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "retailerName": "Mr. Jagdish Desai",
+      "shopName": "Tirupati Medicals Stores",
+      "mobile": "9898868776",
+      "gstIN": "TFDGHG65656VGFGY7876",
+      "address": [
+        {
+          "shopNumber": "CP-12",
+          "street": "Main Road",
+          "landmark": "Shrinagar",
+          "city": "Nanded",
+          "district": "Nanded",
+          "state": "Maharashtra",
+          "pin": "431512"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "retailerName": "Mr. Gangadhar Ware",
+      "shopName": "Sugandha Medicals",
+      "mobile": "7364897656",
+      "gstIN": "GHJHHJ6767F666G",
+      "address": [
+        {
+          "shopNumber": "G56",
+          "street": "Main Road",
+          "landmark": "Bus Stand",
+          "city": "Basmath",
+          "district": "Hingoli",
+          "state": "Maharashtra",
+          "pin": "656567"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "retailerName": "Mr. Jogindar Sharma",
+      "shopName": "LifeCare Medicals",
+      "mobile": "7676767767",
+      "gstIN": "GHGHGJ6768GHB67",
+      "address": [
+        {
+          "shopNumber": "V-77",
+          "street": "Sarafa Line",
+          "landmark": "Irrigation",
+          "city": "Theur",
+          "district": "Hingoli",
+          "state": "Maharashtra",
+          "pin": "431512"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "retailerName": "Dnyaneshwar Deshmukh",
+      "shopName": "Deshmukh Medicals",
+      "mobile": "5633487988",
+      "gstIN": "GHGHJHIHJH7676767HGHG8678",
+      "address": [
+        {
+          "shopNumber": "B/67",
+          "street": "Taroda Naka Road",
+          "landmark": "Raj Corner",
+          "city": "Nanded",
+          "district": "Nanded",
+          "state": "Maharashtra",
+          "pin": "435534"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "retailerName": "Dnyaneshwar Deshmukh",
+      "shopName": "Deshmukh Medicals",
+      "mobile": "5633487988",
+      "gstIN": "GHGHJHIHJH7676767HGHG8678",
+      "address": [
+        {
+          "shopNumber": "B/67",
+          "street": "Taroda Naka Road",
+          "landmark": "Raj Corner",
+          "city": "Nanded",
+          "district": "Nanded",
+          "state": "Maharashtra",
+          "pin": "435534"
+        }
+      ]
+    }
+  ]
